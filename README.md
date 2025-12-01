@@ -35,7 +35,7 @@ Execute the program using runserver command.
     <body>
         <img src="/static/logo.png" width="1500">
         <table align="center" width="1000" cellspacing="5" cellpadding="10" border="6">
-            <caption><b>SLOT  TIME  TABLE - SAIGOKUL.K (25004959)</b></caption>
+            <caption><b>SLOT  TIME  TABLE - SAIGOKUL.K(25004959)</b></caption>
             <tr style="text-align: center;">
                 <td bgcolor="white" >Day/Time</td>
                 <td bgcolor="white" >Monday</td>
